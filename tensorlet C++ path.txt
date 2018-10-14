@@ -1,0 +1,5 @@
+MKL install for ubuntu£º https://blog.csdn.net/huang826336127/article/details/78759506#commentBox
+Basic matrix liv £¬Armadillo£º
+https://blog.csdn.net/fiona_ffflll/article/details/40661535
+fftw3£º
+sudo apt-get install fftw3 fftw3-dev pkg-config
