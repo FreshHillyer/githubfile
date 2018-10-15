@@ -1,5 +1,6 @@
-MKL install for ubuntu£º https://blog.csdn.net/huang826336127/article/details/78759506#commentBox
-Basic matrix liv £¬Armadillo£º
-https://blog.csdn.net/fiona_ffflll/article/details/40661535
-fftw3£º
-sudo apt-get install fftw3 fftw3-dev pkg-config
+MKL install for ubuntuÂ£ï¼š https://blog.csdn.net/huang826336127/article/details/78759506#commentBox
+Basic matrix liv Â£Â¬ArmadilloÂ£ï¼šhttps://blog.csdn.net/fiona_ffflll/article/details/40661535
+fftw3Â£ï¼šsudo apt-get install fftw3 fftw3-dev pkg-config
+
+clion downloadsï¼šhttps://blog.csdn.net/u010925447/article/details/73251780
+                  pase-code http://idea.liyang.io/
