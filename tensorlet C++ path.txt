@@ -1,6 +1,13 @@
-MKL install for ubuntu£： https://blog.csdn.net/huang826336127/article/details/78759506#commentBox
-Basic matrix liv £¬Armadillo£：https://blog.csdn.net/fiona_ffflll/article/details/40661535
-fftw3£：sudo apt-get install fftw3 fftw3-dev pkg-config
-
-clion downloads：https://blog.csdn.net/u010925447/article/details/73251780
-                  pase-code http://idea.liyang.io/
+﻿MKL install for ubuntu： https://blog.csdn.net/huang826336127/article/details/78759506#commentBox
+Basic matrix liv Armadillo：https://blog.csdn.net/fiona_ffflll/article/details/40661535
+fftw3：root@sudo apt-get install fftw3 fftw3-dev pkg-config
+Clion ：https://blog.csdn.net/u010925447/article/details/73251780
+             keys-use for web-http://idea.liyang.io/
+OpenBLAS:if u already get the git account number.do following:
+		1)git clone git://github.com/xianyi/OpenBLAS
+		2)cd OpenBLAS
+		3)sudo make FC=gfortran
+		4)sudo make install
+Tip:(1)The version of fftw3 cant be checked.If u find that your fftw version is fftw2,it also means install sucessfully.
+      (2)Change the path in the CMakeList, make sure your path is right.
+      (3)We test our code on Ubuntu 14.04
